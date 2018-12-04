@@ -21,3 +21,14 @@
 **Link(s) to work**
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case/)
 2. [Solution of above Question](https://github.com/santoshdistro/all-code-of-100daysofcode)
+
+### Day 3: December 04,2018
+
+<!-- **Today's Progress**: I've gone through many exercises on FreeCodeCamp. -->
+**Today's Progress**: LeetCodes daily task.
+
+**Thoughts** started with medium level task.
+
+**Link(s) to work**
+1. [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
+2. [Solution of above Question](https://github.com/santoshdistro/all-code-of-100daysofcode)
