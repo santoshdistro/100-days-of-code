@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log for python
 
 ### Day 1: December 02,2018
 
